@@ -2,7 +2,7 @@
   <div class="container mt-4"> 
     <div class="row">
       <div class="col-sm-6 mx-auto">
-        <form class="py-4" @submit="saveData">
+        <form class="p-4" @submit="saveData">
           <div class="form-group">
             <label for="citySelect">Город</label>
             <select class="form-control" id="citySelect" v-model="selectedCity" required>
@@ -123,9 +123,10 @@ export default {
 
 
 <style>
-.container {
+form {
   border: 1px solid #2c3e50;
   border-radius: 5px;
+  background-color: #f3f3f3;
 }
 
 label {
