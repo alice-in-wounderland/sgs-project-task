@@ -7,6 +7,6 @@
 ![изображение](https://github.com/alice-in-wounderland/sgs-project-task/assets/47723267/727b38a2-a4cd-4160-95a6-ace3bb28e1f7)
 ![изображение](https://github.com/alice-in-wounderland/sgs-project-task/assets/47723267/84b5825d-d74a-4077-8d5d-0199fa36bc71)
 
-Скрипт по созданию таблицы на MS SQL: 
+## Скрипт по созданию таблицы на MS SQL: 
 
 [Employee_Shifts MS SQL.txt](https://github.com/alice-in-wounderland/sgs-project-task/files/13033329/Employee_Shifts.MS.SQL.txt)
