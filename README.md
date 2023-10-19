@@ -1,4 +1,4 @@
-# sgs-project-task
+[Employee_Shifts MS SQL.txt](https://github.com/alice-in-wounderland/sgs-project-task/files/13038419/Employee_Shifts.MS.SQL.txt)# sgs-project-task
 ## Форма на vue.js
 
 ![изображение](https://github.com/alice-in-wounderland/sgs-project-task/assets/47723267/5f5d38a3-b371-447f-bd87-43d3bb0accbe)
@@ -15,4 +15,6 @@
 
 ## Скрипт по созданию таблицы на MS SQL: 
 
-[Employee_Shifts MS SQL.txt](https://github.com/alice-in-wounderland/sgs-project-task/files/13033329/Employee_Shifts.MS.SQL.txt)
+[Employee_Shifts MS SQL.txt](https://github.com/alice-in-wounderland/sgs-project-task/files/13038425/Employee_Shifts.MS.SQL.txt)
+
+Вынесла в отдельную таблицу сотрудников для приведения к нормальной форме. Таблицы связываются по id сотрудника.
